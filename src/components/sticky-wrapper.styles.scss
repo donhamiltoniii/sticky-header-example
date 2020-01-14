@@ -1,0 +1,11 @@
+.sticky-wrapper {
+  position: sticky;
+  top: 0;
+
+  &--sticky {
+    background-color: blue;
+    color: white;
+    left: 0;
+    width: 100vw;
+  }
+}
